@@ -1,0 +1,25 @@
+.g{
+    text-align: center;
+}
+.sidebar{
+    height: 85vh;
+    display: flex;
+    padding: 1rem 0rem;
+    width: 250px;
+    align-items: center;
+    background-color: #0ff;
+    color: black;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+  }
+
+  .side{
+    display: flex;
+    padding: 3px;
+    height: 4vh;
+    grid-gap: 10px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+  }

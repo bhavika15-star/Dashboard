@@ -1,0 +1,35 @@
+.dash{
+width: 80%;
+
+}
+.dashboard{
+    display: flex;
+    text-align: center;
+}
+.home{
+    background-color: whitesmoke;
+    width: 90%;
+    text-align: center;
+    /* margin: 0px 3px; */
+    padding: 0px 10px;
+    /* justify-content: center; */
+}
+.div{
+    background-color: whitesmoke;
+    margin: 10px;
+    display: flex;
+}
+.a{
+    width: 40%;
+    margin: 10px;
+}
+.number{
+    color: #004;
+    font-size: 1.5rem;
+}
+ img{
+     justify-content: center;
+     margin: 5px;
+     height: 250px;
+     width: 500px;
+ }
